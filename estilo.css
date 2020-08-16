@@ -9,3 +9,8 @@ body {
 #principal {
 	width: 1620px;
 }
+
+#menu {
+	background-color: #c5c5b2;
+	padding: 20px
+}
