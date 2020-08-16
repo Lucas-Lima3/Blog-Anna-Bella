@@ -39,5 +39,7 @@ h1 {
 }
 
 .img-campanha {
-
+	border-width: 15px;
+	border-style: solid;
+	border-color: #c3c3ae;
 }
